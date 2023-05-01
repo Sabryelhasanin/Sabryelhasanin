@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/Sabryelhasanin](https://gitlab.com/Sabryelhasanin)
 
-- 💬 Ask me about **Containers, CI/CD, automating**
+- 💬 Ask me about **Containers, Cloud Computing, automation**
 
 - 📫 How to reach me **sabryelhasanin@gmail.com**
 
@@ -31,15 +31,12 @@ Here are some ideas to get you started:
 
 - :nerd_face: Always `learning new things`
 
-- 🐼 Doing my best  
-
-- ⚡ Fun fact **I think I am funny**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sabryhasanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabryhasanin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21227662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21227662" height="30" width="40" /></a>
+<a href="https://medium.com/@sabryelhasanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabryhasanin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
