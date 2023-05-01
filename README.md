@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmefawzy&theme=tokyonight_duo" alt="Sabryelhasanin" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabryelhasanin&theme=tokyonight_duo" alt="Sabryelhasanin" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
