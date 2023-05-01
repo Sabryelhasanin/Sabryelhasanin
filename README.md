@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/sabryhasanin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabryhasanin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21227662" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21227662" height="30" width="40" /></a>
-<a href="https://medium.com/@sabryelhasanin" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/13_social-512.png" alt="Medium" height="30" width="30"></a>
+<a href="https://medium.com/@sabryelhasanin" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/medium_circle-512.png" alt="Medium" height="30" width="30"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
